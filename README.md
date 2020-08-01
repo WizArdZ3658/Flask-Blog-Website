@@ -1,2 +1,2 @@
-# Portfolio Website
-My portfolio website.
+# Blog Website
+My blog website.
